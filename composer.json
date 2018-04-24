@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dragonmantank/cron-expression": "^2.1",
+        "shabbyrobe/phonycron": "^2.0"
+    }
+}
